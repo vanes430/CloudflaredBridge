@@ -108,5 +108,5 @@ The final artifacts will be located in the `target/` directory.
 ---
 
 <div align="center">
-Made with ❤️ for the Minecraft Community
+Made by [vanes430](https://github.com/vanes430)
 </div>
