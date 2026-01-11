@@ -3,8 +3,14 @@ name: Build and Release
 on:
   push:
     branches: [ "master" ]
+    paths:
+      - '**/pom.xml'
+      - '**/src/**'
   pull_request:
     branches: [ "*" ]
+    paths:
+      - '**/pom.xml'
+      - '**/src/**'
   workflow_dispatch:
 
 jobs:
