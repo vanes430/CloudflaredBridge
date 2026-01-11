@@ -1,0 +1,10 @@
+{
+  "id": "cloudflaredbridge",
+  "name": "CloudflaredBridge",
+  "version": "${project.version}",
+  "description": "A bridge plugin for Cloudflared on Velocity",
+  "authors": [
+    "vanes430"
+  ],
+  "main": "github.vanes430.cloudflaredbridge.velocity.CloudflaredBridgeVelocity"
+}

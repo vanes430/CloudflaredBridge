@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>github.vanes430</groupId>
+    <artifactId>cloudflaredbridge-parent</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <name>CloudflaredBridge</name>
+    <description>A bridge plugin for Cloudflared on Spigot and Velocity</description>
+    <url>https://github.com/vanes430/CloudflaredBridge</url>
+
+    <modules>
+        <module>common</module>
+        <module>spigot</module>
+        <module>velocity</module>
+    </modules>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
+
+    <developers>
+        <developer>
+            <id>vanes430</id>
+            <name>vanes430</name>
+        </developer>
+    </developers>
+
+</project>

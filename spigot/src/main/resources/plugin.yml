@@ -1,0 +1,11 @@
+name: CloudflaredBridge
+version: ${project.version}
+main: github.vanes430.cloudflaredbridge.spigot.CloudflaredBridgeSpigot
+api-version: 1.13
+folia-supported: true
+author: vanes430
+commands:
+  cloudflared:
+    description: Manage Cloudflared tunnels
+    usage: /cloudflared <start|stop>
+    permission: cloudflaredbridge.admin
