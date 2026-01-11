@@ -4,7 +4,7 @@
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge&logo=openjdk)
 ![Platform](https://img.shields.io/badge/Platform-Spigot%20|%20Folia%20|%20Velocity-blue?style=for-the-badge&logo=minecraft)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)
 
 **Seamlessly connect your local Minecraft server to the global Cloudflare network.**
 <br>
