@@ -32,6 +32,17 @@ It acts as a wrapper that automatically downloads, verifies, and manages the lif
 
 ---
 
+## 💡 Use Cases
+
+**CloudflaredBridge** is versatile and can be used to protect various services associated with your Minecraft server:
+
+*   **🗺️ Map Security (Dynmap / BlueMap)**: Expose your web-based maps to the internet without opening any ports on your router. Benefit from Cloudflare's caching and DDoS protection.
+*   **📊 Web Panels (Plan / Pterodactyl)**: Securely access your player analytics or management panels through a Cloudflare-protected domain.
+*   **🔗 Bypassing CGNAT / No Port Forwarding**: Perfect for servers running on home connections where port forwarding is not possible or restricted.
+*   **🛡️ DDoS Mitigation**: Hide your server's true IP address behind Cloudflare's global edge network, making it significantly harder for attackers to target your infrastructure directly.
+
+---
+
 ## 📦 Installation
 
 1.  **Download** the plugin jar from the [Releases](#) tab.
